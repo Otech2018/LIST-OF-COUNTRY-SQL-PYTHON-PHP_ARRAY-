@@ -1,6 +1,5 @@
-# MYSQL Country List Import
-
-Use this mysql to import a list of countries into your database.
+# MY Country List 
+THANK ME BY CLICKING THE STAR FOR THIS WORK!.
 
 ### Types of Lists
 
@@ -27,4 +26,4 @@ Thank you.
 
 ----------------------------------
 Maintained by:
-www.raramuridesign.com
+## AJAH OGONNAYA BENJAMIN
